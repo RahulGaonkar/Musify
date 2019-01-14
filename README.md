@@ -9,7 +9,7 @@ A Music Streaming Web Application
 XAMPP, MySQL
 ### Steps :
 1. Import the dataset 'Musify_Dataset.sql' into the MySQL database.
-2. Place the all other files in the htdocs folder of XAMPP.  
+2. Place all the other files in the htdocs folder of XAMPP.  
 3. Start APACHE server.
 3. Open the login.php page to start web application.
 ## More
